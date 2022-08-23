@@ -5,7 +5,6 @@
 
 ### How to run this automation project(example):
 -  python -m robot -d result/login tests/login_tests.robot
-
-### Notes:
+##### Notes:
 - change result directory for each test suite
 - chromedriver used is compatible with Chrome Browser ver 104, if your Chrome Browser ver is different, download compatible driver and replace in the project path.
