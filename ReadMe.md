@@ -1,7 +1,7 @@
 # Stockbit UI Automation sample
 ### This script in developed using:
--Python 3.10.4
--Robot Framework 5.0 (Python 3.7.2 on win32)
+- Python 3.10.4
+- Robot Framework 5.0 (Python 3.7.2 on win32)
 
 ### How to run this automation project(example):
 -  python -m robot -d result/login tests/login_tests.robot
